@@ -1,0 +1,1 @@
+create database search_api;
